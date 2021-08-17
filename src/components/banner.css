@@ -1,0 +1,80 @@
+.Banner {
+  width: 100%;
+  height: 100%;
+
+  margin-top: 20px;
+  padding: 0;
+  background-image: url("../img/wall.jfif");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.headerTitles {
+  display: flex;
+  height: 50vh;
+  flex-direction: row;
+  align-items: center;
+  font-family: "Lora", serif;
+  color: #ffffff;
+}
+.card {
+  height: 40%;
+  width: 60%;
+  background-color: #134776;
+  margin-top: 1%;
+  margin-left: 10%;
+  padding-top: 1px;
+}
+.til {
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 5%;
+  margin-top: 10%;
+}
+.till {
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 5%;
+  margin-top: 4%;
+  border-bottom: dotted #fff;
+}
+.headerTitleSm {
+  flex: 1;
+
+  top: 18%;
+  font-size: 20px;
+}
+
+.headerTitleLg {
+  top: 20%;
+  flex: 1;
+  font-size: 100px;
+}
+
+.headerImg {
+  width: 100%;
+  height: 300px;
+  margin-top: 80px;
+  object-fit: cover;
+}
+.lines {
+  margin-left: 2.5em;
+  padding: 0 7em 2em 0;
+}
+
+.lines li {
+  border-bottom: 1px solid #fff;
+  padding-bottom: 10px;
+}
+.cardd {
+  height: 100%;
+  width: 90%;
+  background-color: #ff3946;
+  margin-top: -4%;
+  padding-bottom: 4px;
+  padding-top: 0.7px;
+}
+p {
+  font-size: 20px;
+  margin-left: 2.1rem;
+}

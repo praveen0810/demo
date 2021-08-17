@@ -1,0 +1,26 @@
+.rightss {
+  justify-content: center;
+}
+.rightss h3 a {
+  color: #565555;
+}
+h3 {
+  font-weight: 300;
+}
+.move-up {
+  position: absolute;
+  right: 6%;
+  top: 50%;
+}
+
+.move-up span {
+  color: #104f55;
+}
+.move-up span:hover {
+  color: #565555;
+  cursor: pointer;
+}
+.text-gray {
+  color: #565555;
+  text-align: center;
+}

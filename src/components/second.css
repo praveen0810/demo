@@ -1,0 +1,29 @@
+.profile {
+  background-color: var(--black);
+  display: flex;
+  align-items: center;
+  padding: 3rem;
+
+  margin-top: -2%;
+}
+.left {
+  flex: 2;
+}
+.rightt {
+  flex: 0.5;
+  display: flex;
+  justify-content: space-evenly;
+}
+.hel {
+  color: #0066cc;
+  font-weight: bold;
+  font-size: 15px;
+}
+.hell {
+  font-weight: 300;
+  font-size: 15px;
+}
+.im {
+  height: 10%;
+  margin-top: 9%;
+}

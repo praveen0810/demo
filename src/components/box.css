@@ -1,0 +1,13 @@
+.row {
+  width: 90%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  grid-gap: 20px;
+  grid-column-gap: 60px;
+  margin-top: 20px;
+  margin-left: 5%;
+}
+.column {
+  position: relative;
+  background-color: #f2f2f2;
+}

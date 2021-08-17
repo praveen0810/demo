@@ -1,0 +1,38 @@
+.boxes {
+  width: 90%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  grid-gap: 20px;
+  grid-column-gap: 60px;
+  margin-top: 20px;
+  margin-left: 5%;
+  padding-bottom: 40px;
+}
+.box {
+  position: relative;
+  background-color: #0066cc;
+}
+.box h1 {
+  color: #fff;
+  font-weight: 400;
+  margin-left: 20px;
+}
+.boxx {
+  position: relative;
+  background-color: #ff3946;
+}
+.boxx h1 {
+  color: #fff;
+  font-weight: 400;
+  margin-left: 20px;
+}
+.boxxx {
+  position: relative;
+  border: 1px solid #0066cc;
+  background-color: transparent;
+}
+.boxxx h1 {
+  color: #0066cc;
+  font-weight: 400;
+  margin-left: 20px;
+}

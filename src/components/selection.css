@@ -1,0 +1,21 @@
+.selection {
+  justify-content: space-evenly;
+  display: flex;
+}
+.back {
+  background-color: #0066cc;
+  height: 60px;
+}
+.select {
+  height: 30px;
+
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+.dot {
+  margin-top: 1.3%;
+}
+
+.dou {
+  margin-left: 10px;
+}
